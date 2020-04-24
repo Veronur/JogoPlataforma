@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "JogoAnimado",
+"dataUrl": "JogoPlataforma.data.unityweb",
+"wasmCodeUrl": "JogoPlataforma.wasm.code.unityweb",
+"wasmFrameworkUrl": "JogoPlataforma.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
